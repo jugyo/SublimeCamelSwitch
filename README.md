@@ -2,7 +2,7 @@ CamelSwitch
 ========
 
 CamelSwitch is a plugin for Sublime Text 2.
-It switchs the word between camel case and snake case.
+It switches the word between camel case and snake case.
 
 ## Installation
 
